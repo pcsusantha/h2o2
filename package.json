@@ -23,6 +23,7 @@
   "devDependencies": {
     "code": "4.x.x",
     "hapi": "16.x.x",
+    "http-proxy-agent": "^2.0.0",
     "inert": "4.x.x",
     "lab": "14.x.x"
   },
